@@ -1,15 +1,15 @@
 //
-//  StitchCounterTests.swift
-//  StitchCounterTests
+//  stitchCounterTests.swift
+//  stitchCounterTests
 //
-//  Created by Anna Harrison on 10/10/17.
+//  Created by Anna Harrison on 10/25/17.
 //  Copyright © 2017 Anna Harrison. All rights reserved.
 //
 
 import XCTest
-@testable import StitchCounter
+@testable import stitchCounter
 
-class StitchCounterTests: XCTestCase {
+class stitchCounterTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  StitchCounter
+//  stitchCounter
 //
-//  Created by Anna Harrison on 10/10/17.
+//  Created by Anna Harrison on 10/25/17.
 //  Copyright © 2017 Anna Harrison. All rights reserved.
 //
 

@@ -1,14 +1,14 @@
 //
-//  FirstViewController.swift
-//  StitchCounter
+//  ViewController.swift
+//  stitchCounter
 //
-//  Created by Anna Harrison on 10/10/17.
+//  Created by Anna Harrison on 10/25/17.
 //  Copyright © 2017 Anna Harrison. All rights reserved.
 //
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
